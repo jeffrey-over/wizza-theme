@@ -1,0 +1,21 @@
+{
+    "name": "wizza",
+    "displayName": "Wizza",
+    "description": "wizza dark",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "wizza dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/wizza dark-color-theme.json"
+            }
+        ]
+    }
+}
