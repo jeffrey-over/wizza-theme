@@ -3,12 +3,17 @@
     "displayName": "Wizza",
     "description": "wizza dark",
     "version": "0.0.1",
+    "publisher": "JeffreyOvermeer",
     "engines": {
         "vscode": "^1.52.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/jeffrey-over/wizza-theme.git"
+      },
     "contributes": {
         "themes": [
             {
