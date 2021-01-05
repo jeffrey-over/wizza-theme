@@ -2,7 +2,7 @@
     "name": "wizza",
     "displayName": "Wizza",
     "description": "Wizza is a dark theme for Visual Studio Code. The dark background provides a pleasant contrast. Specially optimized for HTML, CSS and Javascript coding.",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "publisher": "JeffreyOvermeer",
     "engines": {
         "vscode": "^1.52.0"
@@ -13,7 +13,7 @@
     "repository": {
         "type": "git",
         "url": "git://github.com/jeffrey-over/wizza-theme.git"
-      },
+    },
     "contributes": {
         "themes": [
             {
