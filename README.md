@@ -1,3 +1,5 @@
+![Wizza Icon](https://www.jeffreyovermeer.com/images/screenshot-wizza-html.png)
+
 # Wizza Theme
 Wizza is a dark theme for Visual Studio Code. The dark background provides a pleasant contrast. Specially optimized for HTML, CSS and Javascript coding.
 
