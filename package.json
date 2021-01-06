@@ -7,6 +7,11 @@
     "engines": {
         "vscode": "^1.52.0"
     },
+    "icon": "https://www.jeffreyovermeer.com/images/wizza-icon-mp.png",
+    "galleryBanner": {
+      "color": "#20232A",
+      "theme": "dark"
+    },
     "categories": [
         "Themes"
     ],
